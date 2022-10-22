@@ -1,0 +1,5 @@
+12mm wide with 2mm air gap between sensors, 
+gives a slight reduction in length with two dummy sensord on the end with a total of 34 elements
+2 dummy elements
+32 real sensors, space for 2 more left over, but not rally aplicable
+locked into a 3mm overlay from send cut send

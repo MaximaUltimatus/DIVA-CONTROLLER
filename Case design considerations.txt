@@ -1,0 +1,7 @@
+Base of 9.54mm MDF, or 0.375in +-0.015in cut tolerance of 0.005in and top same thickness, flat top, 
+Buttons need 65mm clearance behind them to function properly 
+Face buttons include shape(100mm0 and arrow buttons(24mm). 
+Contenders for material, ACM or aluminum, 
+
+Design considerations, minimal screws, preferably no adhesives, possible to make a sheet metal part that is both base and top with the sides included
+Requires hinge on front bottom edge
